@@ -1,2 +1,2 @@
 # python_study
-Python study
+Let's Python study
